@@ -15,7 +15,7 @@ Route::get('/', function () {
     return view('shop.index');
 });
 
-Route::get('/contact', function () {
+Route::get('contact', function () {
     return view('shop.contact');
 });
 

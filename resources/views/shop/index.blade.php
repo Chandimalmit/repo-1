@@ -167,13 +167,6 @@
 														<div class="snipcart-thumb">
 															<a href="products.html"><img title=" " alt=" " src="images/10.png" /></a>		
 															<p>Fortune-sunflower</p>
-															<div class="stars">
-																<i class="fa fa-star blue-star" aria-hidden="true"></i>
-																<i class="fa fa-star blue-star" aria-hidden="true"></i>
-																<i class="fa fa-star blue-star" aria-hidden="true"></i>
-																<i class="fa fa-star blue-star" aria-hidden="true"></i>
-																<i class="fa fa-star gray-star" aria-hidden="true"></i>
-															</div>
 															<h4>$20.99 <span>$35.00</span></h4>
 														</div>
 															</div>
