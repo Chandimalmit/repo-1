@@ -14,3 +14,27 @@
 Route::get('/', function () {
     return view('shop.index');
 });
+
+Route::get('/contact', function () {
+    return view('shop.contact');
+});
+
+Route::get('login', function () {
+    return view('auth.login');
+});
+
+Route::get('register', function () {
+    return view('auth.register');
+});
+
+Route::get('checkout', function () {
+    return view('shop.checkout');
+});
+
+Route::get('products', function () {
+    return view('shop.products');
+});
+
+Route::auth();
+
+Route::get('/home', 'HomeController@index');

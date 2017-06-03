@@ -117,10 +117,8 @@
 											</div>
 										</ul>
 									</li>
-
-										<li><a href="gourmet.html">Gourmet</a></li>
 									<li><a href="offers.html">Offers</a></li>
-									<li><a href="contact.html">Contact</a></li>
+									<li><a href="contact">Contact</a></li>
 								</ul>
 							</div>
 							</nav>

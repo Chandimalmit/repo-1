@@ -20,6 +20,8 @@
 <!-- main slider-banner -->
 <script src="{{ URL::to('js/skdslider.min.js')}}"></script>
 <link href="{{ URL::to('src/skdslider.css')}}" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 <script type="text/javascript">
 		jQuery(document).ready(function(){
 			jQuery('#demo1').skdslider({'delay':5000, 'animationSpeed': 2000,'showNextPrev':true,'showPlayButton':true,'autoSlide':true,'animationType':'fading'});

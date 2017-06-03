@@ -15,7 +15,7 @@
 					<h3>Information</h3>
 					<ul class="info"> 
 						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="about.html">About Us</a></li>
-						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="contact.html">Contact Us</a></li>
+						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="contact">Contact Us</a></li>
 						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="short-codes.html">Short Codes</a></li>
 						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="faq.html">FAQ's</a></li>
 						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="products.html">Special Products</a></li>
@@ -35,10 +35,10 @@
 				<div class="col-md-3 w3_footer_grid">
 					<h3>Profile</h3>
 					<ul class="info"> 
-						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="products.html">Store</a></li>
-						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="checkout.html">My Cart</a></li>
-						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="login.html">Login</a></li>
-						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="registered.html">Create Account</a></li>
+						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="products">Store</a></li>
+						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="checkout">My Cart</a></li>
+						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="login">Login</a></li>
+						<li><i class="fa fa-arrow-right" aria-hidden="true"></i><a href="register">Create Account</a></li>
 					</ul>
 				</div>
 				<div class="clearfix"> </div>
